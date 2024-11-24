@@ -1,9 +1,8 @@
 /* Your CSS Code here. */
 <style>
     body {
-      font-family: Arial, sans-serif;
-    }
-    .quotation {
+    font-family: sans-serif;
+	} .quotation {
       max-width: 600px;
       margin: 10px auto;
       padding: 15px;
